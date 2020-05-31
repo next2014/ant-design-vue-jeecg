@@ -21,7 +21,7 @@
     props: {
       title: {
         type: String,
-        default: 'Jeecg-Boot Pro',
+        default: '稻子集 ERP',
         required: false
       },
       showTitle: {
